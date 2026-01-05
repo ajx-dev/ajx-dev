@@ -67,9 +67,8 @@ I enjoy programming, coding challenges, and hands-on projects, always combining 
 ---
 
 ## 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ajx-dev&theme=react-dark&hide_border=true" alt="Alaa's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajx-dev&bg_color=0d1117&color=2bbc8a&line=2bbc8a&point=ffffff&hide_border=true" alt="Alaa's GitHub Activity Graph"/>
 </p>
 
 ---
