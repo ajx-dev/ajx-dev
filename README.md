@@ -7,8 +7,11 @@ Feel free to fork or copy it and replace the information with your own.
 <p align="center">
 🎓 IT Student – Cybersecurity Track <br>
 💻 Web Developer & App Developer | Security-aware Programmer 🔐
+
  
 </p><p align="center">
+
+ <img alt="Profile Views" src="https://img.shields.io/badge/👁️%20Profile%20Views-1234-green?style=for-the-badge&logo=github" />
 <p align="center">
 I build modern websites and develop applications, while also learning cybersecurity to make my projects secure. <br>
 I enjoy programming, coding challenges, and hands-on projects, always combining functionality with security.
