@@ -1,58 +1,79 @@
-<!-- GitHub Profile README -->
+## 👋 Hi, I'm Alaa Mohammed
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](#)
+🎓 **IT Student – Cybersecurity Track**  
+🔐 **Aspiring Cybersecurity Analyst | Web Security Enthusiast**
 
-# Hello! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+I’m deeply interested in understanding **how systems are attacked and how to defend them**.  
+My focus is on **defensive security (Blue Team)**, **secure web applications**, and **Linux-based environments**.
 
-My name is **Alaa Mohammed** and I'm a **Web Developer** 💻 and an **IT Student specializing in Cybersecurity** 🔐.  
-I’m passionate about building modern websites and learning how to secure systems, networks, and applications.
-
-📚 Major: Information Technology (Cybersecurity)  
-🌱 Currently learning: Secure Web Development & Linux  
-🚀 Career goal: Web Developer / Cybersecurity Specialist
-
-You can find me on GitHub and LinkedIn 👇
+I believe strong security starts with solid fundamentals, continuous learning, and hands-on practice.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛡 Cybersecurity Focus Areas
 
-### 🌐 Web Development
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-
-### 🖥 Programming
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-
-### 🔐 Cybersecurity & IT
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Concept-Networking-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
-
-### 🛠 Tools
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+- 🔐 Web Application Security (OWASP Top 10)
+- 🌐 Networking & Protocol Fundamentals
+- 🐧 Linux Administration & Hardening
+- 🧪 Ethical Hacking & CTF Practice
+- 🛠 Secure Coding Principles
 
 ---
 
-## 📚 Currently Studying
-- 🔐 Cybersecurity Fundamentals
-- 🌐 Secure Web Applications
-- 🐧 Linux Administration
-- 🧠 Ethical Hacking Basics
+## 🔧 Tools & Technologies
+
+### 🖥 Operating Systems
+![](https://img.shields.io/badge/Linux-Expert-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kali_Linux-Learning-informational?style=flat&logo=kalilinux&logoColor=white&color=2bbc8a)
+
+### 🌐 Networking & Security
+![](https://img.shields.io/badge/Networking-TCP/IP-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Security-OWASP_Top_10-informational?style=flat&logo=owasp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Security-Web_Security-informational?style=flat&logo=owasp&logoColor=white&color=2bbc8a)
+
+### 🛠 Security Tools
+![](https://img.shields.io/badge/Nmap-Network_Scanning-informational?style=flat&logo=nmap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Wireshark-Packet_Analysis-informational?style=flat&logo=wireshark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Burp_Suite-Web_Testing-informational?style=flat&logo=burpsuite&logoColor=white&color=2bbc8a)
+
+### 💻 Programming (for Security)
+![](https://img.shields.io/badge/Python-Scripting-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bash-Automation-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-Web_Context-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Working On
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- 🛡 Practicing **CTFs & security labs**
+- 🔍 Studying **Web vulnerabilities & exploitation**
+- 🐧 Improving **Linux hardening & permissions**
+- ✍️ Writing **security notes & lab documentation**
 
 ---
 
-✨ *Learning Web Development, Securing the Future.*
+## 📂 Featured Repositories (in progress)
+- 🔐 `web-security-labs`
+- 🧪 `ctf-writeups`
+- 🐧 `linux-security-notes`
+- 🛠 `security-scripts-python`
 
+---
+
+## 📊 GitHub Activity
+
+![Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajx-dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajx-dev&layout=compact&theme=dark)
+
+---
+
+## 🔍 Find Me Here
+
+<a href="https://github.com/ajx-dev">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ajx--dev-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+🛡 **Security is not a feature — it’s a mindset.**  
+🚀 *Learning today. Defending tomorrow.*
