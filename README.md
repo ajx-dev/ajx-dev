@@ -9,6 +9,8 @@ Feel free to fork or copy it and replace the information with your own.
 💻 Web Developer & App Developer | Security-aware Programmer 🔐
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ajx-dev&color=2bbc8a)
+
 <p align="center">
 I build modern websites and develop applications, while also learning cybersecurity to make my projects secure. <br>
 I enjoy programming, coding challenges, and hands-on projects, always combining functionality with security.
