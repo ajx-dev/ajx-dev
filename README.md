@@ -1,62 +1,59 @@
 ## 👋 Hi, I'm Alaa Mohammed
 
 🎓 **IT Student – Cybersecurity Track**  
-🔐 **Aspiring Cybersecurity Analyst | Web Security Enthusiast**
+💻 **Web Developer & App Developer | Security-aware Programmer 🔐**
 
-I’m deeply interested in understanding **how systems are attacked and how to defend them**.  
-My focus is on **defensive security (Blue Team)**, **secure web applications**, and **Linux-based environments**.
-
-I believe strong security starts with solid fundamentals, continuous learning, and hands-on practice.
+I build **modern websites** and **develop applications**, while also learning **cybersecurity** to make my projects secure.  
+I enjoy **programming, coding challenges, and hands-on projects**, always combining functionality with security.
 
 ---
 
-## 🛡 Cybersecurity Focus Areas
+## 🛡 Cybersecurity & Web Focus Areas
 
-- 🔐 Web Application Security (OWASP Top 10)
+- 💻 Web & App Development (HTML, CSS, JS, Vue, Python)
+- 🔐 Secure Coding & Web Application Security (OWASP Top 10)
 - 🌐 Networking & Protocol Fundamentals
 - 🐧 Linux Administration & Hardening
 - 🧪 Ethical Hacking & CTF Practice
-- 🛠 Secure Coding Principles
 
 ---
 
 ## 🔧 Tools & Technologies
 
-### 🖥 Operating Systems
+### 🖥 Development & OS
 ![](https://img.shields.io/badge/Linux-Expert-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Kali_Linux-Learning-informational?style=flat&logo=kalilinux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VS_Code-IDE-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-### 🌐 Networking & Security
-![](https://img.shields.io/badge/Networking-TCP/IP-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Security-OWASP_Top_10-informational?style=flat&logo=owasp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Security-Web_Security-informational?style=flat&logo=owasp&logoColor=white&color=2bbc8a)
+### 🌐 Web & Programming
+![](https://img.shields.io/badge/HTML5-Web_informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS3-Web_informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-Web_informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Backend_informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vue.js-Frontend_informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
-### 🛠 Security Tools
+### 🔐 Security Tools
 ![](https://img.shields.io/badge/Nmap-Network_Scanning-informational?style=flat&logo=nmap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Wireshark-Packet_Analysis-informational?style=flat&logo=wireshark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Burp_Suite-Web_Testing-informational?style=flat&logo=burpsuite&logoColor=white&color=2bbc8a)
-
-### 💻 Programming (for Security)
-![](https://img.shields.io/badge/Python-Scripting-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Bash-Automation-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-Web_Context-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ---
 
 ## 📚 Currently Working On
 
+- 💻 Building **websites and applications**
 - 🛡 Practicing **CTFs & security labs**
-- 🔍 Studying **Web vulnerabilities & exploitation**
-- 🐧 Improving **Linux hardening & permissions**
-- ✍️ Writing **security notes & lab documentation**
+- 🔍 Studying **Web vulnerabilities & secure coding**
+- 🐧 Improving **Linux hardening & automation**
 
 ---
 
 ## 📂 Featured Repositories (in progress)
+- 💻 `personal-website`
+- 💻 `app-development-projects`
 - 🔐 `web-security-labs`
 - 🧪 `ctf-writeups`
 - 🐧 `linux-security-notes`
-- 🛠 `security-scripts-python`
 
 ---
 
@@ -75,5 +72,6 @@ I believe strong security starts with solid fundamentals, continuous learning, a
 
 ---
 
-🛡 **Security is not a feature — it’s a mindset.**  
-🚀 *Learning today. Defending tomorrow.*
+💻 **Building websites & apps. Securing them with cybersecurity mindset.**  
+🚀 *Learning today. Coding tomorrow. Defending always.*
+
