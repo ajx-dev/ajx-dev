@@ -3,13 +3,20 @@
 Feel free to fork or copy it and replace the information with your own.
 -->
 
-<h1 align="center">👋 Hi, I'm Alaa Mohammed</h1>
+<h1 align="center">👋 Hi, I'm Alaa Alfaifi </h1>
 <p align="center">
 🎓 IT Student – Cybersecurity Track <br>
 💻 Web Developer & App Developer | Security-aware Programmer 🔐
+</p><p align="center">
+  <!-- عدد الزوار -->
+  <img alt="Profile Views" src="https://img.shields.io/badge/👁️%20Profile%20Views-1234-green?style=for-the-badge&logo=github" />
+  
+  <!-- المتابعين -->
+  <img alt="Followers" src="https://img.shields.io/badge/⭐%20Followers-56-blue?style=for-the-badge&logo=github" />
+  
+  <!-- Commits last year -->
+  <img alt="Commits Last Year" src="https://img.shields.io/badge/📝%20Commits%20Last%20Year-789-purple?style=for-the-badge&logo=github" />
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ajx-dev&color=2bbc8a)
 
 <p align="center">
 I build modern websites and develop applications, while also learning cybersecurity to make my projects secure. <br>
