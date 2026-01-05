@@ -47,18 +47,6 @@ You can find me on GitHub and LinkedIn 👇
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" />
-</a>
-
----
-
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
